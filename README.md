@@ -14,6 +14,7 @@ Institute: Minhaj University Lahore
 
 This repository contains programs of control structure , conditional structure etc.
 
+![download (1)](https://github.com/user-attachments/assets/36a9f57a-aed3-422f-bbd1-c17686c8fec6)
 
 ## Contributing
 
