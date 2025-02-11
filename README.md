@@ -6,7 +6,9 @@ Name: Hanzala
 
 Class: Bs/Cs
 
-Institute:Minhaj University Lahore
+Semester: 1st
+
+Institute: Minhaj University Lahore
 
 ## Programs:
 
