@@ -12,7 +12,7 @@ Institute: Minhaj University Lahore
 
 ## Programs:
 
-This repository contains programs of control structure , conditional structure etc.
+This repository contains programs of control structure , conditional structure etc All are written in C++.
 
 ![download (1)](https://github.com/user-attachments/assets/36a9f57a-aed3-422f-bbd1-c17686c8fec6)
 
